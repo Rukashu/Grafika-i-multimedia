@@ -1,9 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Temp\Compiled-Legacy Shaders-Bumped Diffuse.shader">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Own Assets\Shaders\CapsuleToSphere.shader">
     <Files>
       <File FileName="Assets\Own Assets\Shaders\CapsuleToSphere.shader" Line="1" Column="1" />
-      <File FileName="Temp\Compiled-Legacy Shaders-Bumped Diffuse.shader" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
